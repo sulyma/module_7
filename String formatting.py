@@ -1,10 +1,3 @@
-# print('Hello, ' + str(14) + ' world')
-# print('My name is %s, %s' % ('Dimas', 20))
-# print('My name is %(name)s, %(year)x' % {'name': 'Dimas', 'year': 230})
-# print('I study at {1} {0} {1}'.format('Urban', 'university').upper())
-# print('I study at {postfix} {title} {postfix}'.format(title='Urban', postfix='university'))
-
-
 team1_num = 5
 team2_num = 6
 score_1 = 40
